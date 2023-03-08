@@ -4,5 +4,6 @@ function checkSpam(str) {
   } else {
     return (false);
   }
+  //ех
 }
 
